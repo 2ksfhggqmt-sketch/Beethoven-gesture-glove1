@@ -1,4 +1,4 @@
-# Mozart Gesture Glove 🎵🤚
+# Mozart Gesture Glove
 
 A wearable gesture-based device that converts simple hand gestures into spoken audio phrases.  
 The project is designed as an assistive communication tool for people with speech impairments.
@@ -6,9 +6,9 @@ The project is designed as an assistive communication tool for people with speec
 ## Team
 **Team name:** Mozart  
 **Participants:**  
-- Iskander Sensei  
-- Jessica Clein  
-- Tomiris Dzhaxylykova  
+- Tomiris Jaxylykova
+- Dana Zhangabay  
+- Begaiym Orazmbet 
 
 **Country:** Kazakhstan  
 **Competition:** INFOMATRIX-ASIA  
