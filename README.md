@@ -8,7 +8,7 @@ The project is designed as an assistive communication tool for people with speec
 **Participants:**  
 - Tomiris Jaxylykova
 - Dana Zhangabay  
-- Begaiym Orazmbet 
+- Sakenuly Dinmukhammed
 
 **Country:** Kazakhstan  
 **Competition:** INFOMATRIX-ASIA  
