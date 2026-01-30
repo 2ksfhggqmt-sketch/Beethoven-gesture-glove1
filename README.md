@@ -1,4 +1,4 @@
-# Mozart Gesture Glove
+# Beethoven Gesture Glove
 
 A wearable gesture-based device that converts simple hand gestures into spoken audio phrases.  
 The project is designed as an assistive communication tool for people with speech impairments.
