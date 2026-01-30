@@ -4,7 +4,7 @@ A wearable gesture-based device that converts simple hand gestures into spoken a
 The project is designed as an assistive communication tool for people with speech impairments.
 
 ## Team
-**Team name:** Mozart  
+**Team name:** Beethoven  
 **Participants:**  
 - Tomiris Jaxylykova
 - Dana Zhangabay  
